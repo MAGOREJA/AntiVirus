@@ -1,0 +1,6 @@
+[
+    {
+        "name": "Suspicious File",
+        "signature": "malicious_string"
+    }
+]
